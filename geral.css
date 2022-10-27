@@ -1,7 +1,29 @@
-# Terceiro Trimestre
-
-## Identificação
- Diogo Maringá - Nr - 50
- 
- ## conteúdo
- HTML, CSS e Javascript
+#calc {
+   background-color: rgb(19, 64, 185);
+   width: 190px;
+   padding: 10px;
+   border-radius: 15px;
+}
+#calc input {
+    background: burlywood;
+    color: crimson;
+    border-radius: 7px;
+    padding: 5px;
+}
+#calc button {
+    background: darkkhaki;
+    color: darkorchid;
+    margin-top: 10px;
+    padding: 5px;
+}
+#calc button:hover {
+    background: rgb(219, 146, 11);
+    color: rgb(63, 177, 197);
+    cursor: crosshair;
+}
+#spTotal {
+    background: rgb(14, 39, 94);
+    color: rgb(62, 121, 170);
+    border-radius: 10px;
+    padding: 5px;
+}
