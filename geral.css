@@ -3,6 +3,9 @@
    width: 190px;
    padding: 10px;
    border-radius: 15px;
+   box-shadow: 10px 10px black;
+   position: absolute;
+   left: 40%;
 }
 #calc input {
     background: burlywood;
