@@ -1,4 +1,4 @@
-#calc {
+.calc {
    background-color: rgb(19, 64, 185);
    width: 190px;
    padding: 10px;
@@ -7,19 +7,19 @@
    position: absolute;
    left: 40%;
 }
-#calc input {
+.calc input {
     background: burlywood;
     color: crimson;
     border-radius: 7px;
     padding: 5px;
 }
-#calc button {
+.calc button {
     background: darkkhaki;
     color: darkorchid;
     margin-top: 10px;
     padding: 5px;
 }
-#calc button:hover {
+.calc button:hover {
     background: rgb(219, 146, 11);
     color: rgb(63, 177, 197);
     cursor: crosshair;
@@ -41,3 +41,4 @@
 #calcFin {
     display: none;
 }
+
